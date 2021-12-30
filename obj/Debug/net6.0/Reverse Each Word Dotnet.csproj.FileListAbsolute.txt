@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\bin\Debug\net6.0\Reverse Each Word Dotnet.exe
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\bin\Debug\net6.0\Reverse Each Word Dotnet.deps.json
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\bin\Debug\net6.0\Reverse Each Word Dotnet.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\bin\Debug\net6.0\Reverse Each Word Dotnet.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\bin\Debug\net6.0\ref\Reverse Each Word Dotnet.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\bin\Debug\net6.0\Reverse Each Word Dotnet.pdb
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\ref\Reverse Each Word Dotnet.dll
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.pdb
+C:\Users\Lenovo\Desktop\Reverse Each Word Dotnet\obj\Debug\net6.0\Reverse Each Word Dotnet.genruntimeconfig.cache
